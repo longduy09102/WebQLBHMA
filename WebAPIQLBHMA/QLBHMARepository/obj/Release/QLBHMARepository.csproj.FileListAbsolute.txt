@@ -1,0 +1,12 @@
+D:\WebAPIQLBHMA\QLBHMARepository\bin\Release\QLBHMARepository.dll.config
+D:\WebAPIQLBHMA\QLBHMARepository\bin\Release\QLBHMARepository.dll
+D:\WebAPIQLBHMA\QLBHMARepository\bin\Release\QLBHMARepository.pdb
+D:\WebAPIQLBHMA\QLBHMARepository\bin\Release\EntityFramework.dll
+D:\WebAPIQLBHMA\QLBHMARepository\bin\Release\EntityFramework.SqlServer.dll
+D:\WebAPIQLBHMA\QLBHMARepository\bin\Release\EntityFramework.xml
+D:\WebAPIQLBHMA\QLBHMARepository\bin\Release\EntityFramework.SqlServer.xml
+D:\WebAPIQLBHMA\QLBHMARepository\obj\Release\QLBHMARepository.csprojAssemblyReference.cache
+D:\WebAPIQLBHMA\QLBHMARepository\obj\Release\QLBHMARepository.csproj.CoreCompileInputs.cache
+D:\WebAPIQLBHMA\QLBHMARepository\obj\Release\QLBHMARepository.csproj.CopyComplete
+D:\WebAPIQLBHMA\QLBHMARepository\obj\Release\QLBHMARepository.dll
+D:\WebAPIQLBHMA\QLBHMARepository\obj\Release\QLBHMARepository.pdb
