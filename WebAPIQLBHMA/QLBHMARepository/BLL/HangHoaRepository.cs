@@ -113,7 +113,6 @@ namespace QLBHMARepository.BLL
             try
             {
                 int n = (pageIndex - 1) * pageSize;
-                int totalItems = await _db.HangHoas.CountAsync();
                 var hangHoaItems = await _db.HangHoas
                     .Where(p => p.LoaiID == Id)
                     .OrderByDescending(p => p.ID)
@@ -126,6 +125,7 @@ namespace QLBHMARepository.BLL
                         thuongHieuEntity = p.ThuongHieu
                     })
                     .ToListAsync();
+                int totalItems = hangHoaItems.Count();
                 var onePageOfData = new PagedOutput<HangHoaOutput>
                 {
                     Items = hangHoaItems,
