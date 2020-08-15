@@ -156,6 +156,8 @@ namespace QLBHMARepository.BLL
                         MoTa = p.MoTa,
                         ThongSoKyThuat = p.ThongSoKyThuat,
                         LoaiID = p.LoaiID.Value,
+                        ThuongHieuID = p.ThuongHieuID,
+                        TenHinh = p.TenHinh
                     })
                     .SingleOrDefaultAsync();
                 return item;
